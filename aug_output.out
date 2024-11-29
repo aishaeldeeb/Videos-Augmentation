@@ -1,0 +1,440 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mii/1.1.2
+
+The following have been reloaded with a version change:
+  1) StdEnv/2023 => StdEnv/2020           5) libfabric/1.18.0 => libfabric/1.10.1
+  2) gcccore/.12.3 => gcccore/.9.3.0      6) openmpi/4.1.5 => openmpi/4.0.3
+  3) gentoo/2023 => gentoo/2020           7) pmix/4.2.4 => pmix/3.1.5
+  4) imkl/2023.2.0 => imkl/2020.1.217     8) ucx/1.14.1 => ucx/1.8.0
+
+Perform Augmentation
+[h264 @ 0x5946ba0] error while decoding MB 19 44, bytestream -10
+[h264 @ 0x4128d50] error while decoding MB 18 38, bytestream -11
+[h264 @ 0x44f7b30] error while decoding MB 82 67, bytestream -6
+[h264 @ 0x5924570] error while decoding MB 33 20, bytestream -5
+[h264 @ 0x1ce0c80] error while decoding MB 25 9, bytestream -12
+[h264 @ 0x19fced0] error while decoding MB 28 11, bytestream -6
+[h264 @ 0x45af960] error while decoding MB 61 10, bytestream -39
+[h264 @ 0x66aa6c0] error while decoding MB 38 2, bytestream -8
+Processing video 1: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_011.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 2: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_016.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 3: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_018.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 4: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_064.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 5: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_063.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 6: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_056.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 7: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_051.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 8: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_023.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 9: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_058.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 10: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_024.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 11: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_049.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 12: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_035.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 13: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_032.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 14: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_040.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 15: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_047.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 16: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_009.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 17: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_007.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 18: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_059.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 19: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_025.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 20: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_022.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 21: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_050.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 22: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_057.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 23: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_062.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 24: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_019.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 25: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_065.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 26: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_017.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 27: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_006.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 28: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_008.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 29: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_046.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 30: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_041.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 31: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_033.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 32: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_048.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 33: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_034.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 34: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_042.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 35: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_045.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 36: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_039.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 37: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_037.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 38: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_030.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 39: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_021.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 40: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_026.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 41: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_054.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 42: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_028.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 43: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_053.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 44: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_066.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 45: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_061.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 46: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_013.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 47: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_014.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 48: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_031.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 49: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_036.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 50: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_044.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 51: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_038.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 52: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_043.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 53: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_015.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 54: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_012.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 55: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_060.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 56: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_052.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 57: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_055.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 58: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_029.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 59: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_027.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+Processing video 60: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly/normal_020.mp4
+Output directory: /home/aishaeld/scratch/smart_surveillance_data/videos/train_val/non_anomaly_augmented
+Performing horizontal flip
+Performing vertical flip
+Performing low brightness
+Performing medium brightness
+Performing high brightness
+End
